@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+/*COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Morado : #A51890*/
+
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+

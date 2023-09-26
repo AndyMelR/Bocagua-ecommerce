@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+
+/*COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Morado : #A51890 */
+
+.background-productos{
+    background-color: #40C1AC;
+    opacity: 1;
+    font-family: 'Nunito', sans-serif;
+}
+.txt-titulo-producto{
+    color: #425563;
+    text-align: left;
+}
+.txt-productos{
+    color: #425563;
+    margin: 1%;
+    text-align: left;
+}
+.buttons-nav{
+    background-color: #FFC658 ;
+}
+.button .card-btn:hover {
+    background-color: #eb24cd ;
+}

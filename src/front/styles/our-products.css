@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+/*COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Aguamarina claro: #6ac2b4
+Morado : #A51890 */
+
+.background-productos-home{
+    background-color: #6ac2b4;
+    opacity: 1;
+}
+
+.txt-productos-home{
+    color: white;
+    margin: 1%;
+    text-align: left;
+}

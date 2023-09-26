@@ -1,0 +1,16 @@
+/* 
+    General Styles used on every website (Don't Repeat Yourself)
+
+COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Morado : #A51890
+*/
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}

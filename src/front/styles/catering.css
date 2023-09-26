@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+/*COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Morado : #A51890 */
+
+.background-catering{
+    background-color: #425563;
+    opacity: 1;
+}
+
+.txt-catering{
+    color: white;
+    margin: 3%;
+    text-align: center;
+}
+
+.background-catering-image{
+    opacity: .8;
+}
+
+.catering {
+    color: white;
+}
+.letressize{
+    font-size: 5rem;
+}

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+/*COLORS:
+Azul corporativo : #425563
+Amarillo: #FFC658
+Aguamarina: #40C1AC
+Aguamarina fondos: #6ac2b4
+Morado : #A51890 */
+
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.icono {
+    font-family: initial !important;
+}
+
+.h-full{
+    height: 100vh;
+}
+
+.logo_landing{
+    opacity: .9;
+}
+
+.background-landing{
+    opacity: 0.75;
+}
+
+
+
+.nuestros-productos{
+    color: white;
+}
+
+.btn_dulce {
+    width: 48%;
+}
+
+.btn_pan {
+    width: 48%;
+}
+
+.btn_tartas {
+    width: 48%;
+}
+
+.nombre_boton_producto{
+    color: white;
+}
+
+
+.catering {
+    color: white;
+}
+.panMasamadre {
+    width: 10%;
+    
+}
