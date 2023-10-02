@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useContext } from "react";
 import { Link } from "react-router-dom";
 import { Context } from "../store/appContext";
-import background from "../../img/hero_banner4.png";
+import background from "../../img/product-images/hero_banner4.png"
 import "../../styles/catering.css";
 
 const Catering = () => {
